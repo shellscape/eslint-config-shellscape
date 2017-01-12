@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-shellscape",
+  "version": "1.0.0",
+  "description": "ESLint shareable config for shellscape projects",
+  "main": "index.js",
+  "repository": "shellscape/eslint-config-shellscape",
+  "author": {
+    "name": "Andrew Powell",
+    "email": "andrew@shellscape.org",
+    "url": "shellscape.org"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=4"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "shellscape"
+  ]
+}
