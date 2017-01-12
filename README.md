@@ -16,10 +16,10 @@ This config can be used one of two ways:
 
 ```json
 {
-	"name": "snoochi-boochies",
-	"eslintConfig": {
-		"extends": "shellscape"
-	}
+  "name": "snoochi-boochies",
+  "eslintConfig": {
+    "extends": "shellscape"
+  }
 }
 ```
 
@@ -27,7 +27,7 @@ This config can be used one of two ways:
 
 ```json
 {
-	"extends": "shellscape"
+  "extends": "shellscape"
 }
 ```
 
