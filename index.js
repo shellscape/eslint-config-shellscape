@@ -9,6 +9,7 @@ module.exports = {
   'rules': {
     'brace-style': ['error', 'stroustrup', { 'allowSingleLine': false }],
     'consistent-return': ['off'],
+    'comma-dangle': ['error', 'never'],
     'comma-spacing': ['error', { 'before': false, 'after': true }],
     'complexity': ['off'],
     'indent': ['error', 2, { 'SwitchCase': 1, 'VariableDeclarator': 1 }],
