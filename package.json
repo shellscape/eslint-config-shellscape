@@ -14,7 +14,7 @@
     "node": ">=12.22.1"
   },
   "files": [
-    "config",
+    "configs",
     "index.js",
     "README.md",
     "typescript.js"
