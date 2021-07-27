@@ -31,6 +31,22 @@ This config can be used one of two ways:
 }
 ```
 
+### Use with TypeScript
+
+```json
+{
+  "extends": "shellscape/typescript"
+}
+```
+
+### Use with Prettier
+
+Create a `.prettierrc.js` file with the following content:
+
+```js
+module.exports = require('eslint-config-shellscape/prettier');
+```
+
 ## License
 
 MIT © [Andrew Powell](http://shellscape.org)

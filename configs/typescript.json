@@ -1,5 +1,5 @@
 {
-  "extends": "shellscape",
+  "extends": ["shellscape", "plugin:import/typescript"],
   "overrides": [
     {
       "files": [
