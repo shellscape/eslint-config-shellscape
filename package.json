@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-shellscape",
-  "version": "5.0.2",
+  "version": "6.0.0",
   "description": "ESLint shareable config for shellscape projects",
   "main": "index.js",
   "repository": "shellscape/eslint-config-shellscape",
